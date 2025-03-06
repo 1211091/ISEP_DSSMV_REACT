@@ -1,19 +1,35 @@
-# 🛒 Shopping List App
+🎬 MovieApp
 
-## 📌 Descrição do Projeto
-O **Shopping List App** é uma aplicação móvel desenvolvida em React Native que permite aos utilizadores criar e gerir listas de compras de forma eficiente. A aplicação oferece funcionalidades como adicionar, editar e remover itens, bem como marcar itens como comprados, proporcionando uma experiência de compra organizada e prática.
+📌 Descrição do Projeto
 
-## 🎯 Objetivo
-Facilitar o processo de compras dos utilizadores, permitindo-lhes criar e gerir listas de compras de forma intuitiva e eficiente, garantindo que nenhum item seja esquecido durante as compras.
+O MovieApp é uma aplicação móvel desenvolvida em React Native que permite aos utilizadores explorarem informações sobre filmes e séries. A aplicação oferece detalhes como sinopse, elenco, avaliações e permite que os utilizadores marquem seus filmes e séries favoritos.
 
-## 🛠 Tecnologias Utilizadas
-- **React Native**: Framework para desenvolvimento de aplicações móveis multiplataforma.
-- **JavaScript**: Linguagem de programação utilizada no desenvolvimento da aplicação.
-- **Expo**: Plataforma que facilita o desenvolvimento e a execução de aplicações React Native.
+🎯 Objetivo
 
-## 🚀 Funcionalidades Principais
-- **Adicionar Itens**: Permite aos utilizadores adicionar novos itens à lista de compras.
-- **Editar Itens**: Possibilidade de editar as informações dos itens já adicionados.
-- **Remover Itens**: Função para remover itens da lista.
-- **Marcar como Comprado**: Opção para marcar itens como comprados, ajudando no acompanhamento durante as compras.
-- **Interface Intuitiva**: Design simples e amigável, facilitando a navegação e utilização da aplicação.
+Fornecer uma plataforma interativa para que os utilizadores descubram novos filmes e séries, acessem informações detalhadas e organizem seus conteúdos favoritos de forma prática.
+
+🛠 Tecnologias Utilizadas
+
+React Native: Framework para desenvolvimento de aplicações móveis multiplataforma.
+
+JavaScript: Linguagem de programação utilizada no desenvolvimento.
+
+Expo: Plataforma que facilita o desenvolvimento e execução da aplicação.
+
+TMDb API: API utilizada para obter informações sobre filmes e séries.
+
+🚀 Funcionalidades Principais
+
+🔍 Pesquisa de Filmes e Séries: Permite aos utilizadores pesquisar títulos específicos.
+
+📄 Detalhes de Filmes e Séries: Exibe sinopse, elenco, avaliações e outras informações.
+
+⭐ Favoritos: Opção para guardar filmes e séries favoritos.
+
+🎭 Categorias e Géneros: Exploração por diferentes categorias e géneros.
+
+📱 Interface Responsiva: Design otimizado para dispositivos móveis.
+
+📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
